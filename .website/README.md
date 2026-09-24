@@ -1,4 +1,8 @@
 ---
+genres:
+  - stealth
+  - puzzle
+  - adventure
 directors_cut: https://shadow-prowler.netlify.app/
 video: https://youtu.be/HFJtQn4rk2Q
 post: https://shadow-prowler.netlify.app/
